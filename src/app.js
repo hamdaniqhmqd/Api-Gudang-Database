@@ -11,19 +11,18 @@ app.use(supplierRoutes);
 app.use(transaksiRoutes);
 app.use(barangRoutes);
 
-// Root route untuk menampilkan rekomendasi daftar endpoint
 app.get('/', (req, res) => {
   res.json({
-    message: 'Welcome to the API. Here are the available endpoints:',
-    endpoints: {
-      '/users': 'Get list of users',
-      '/users/:id': 'Get user by ID',
-      '/suppliers': 'Get list of suppliers',
-      '/suppliers/:id': 'Get supplier by ID',
-      '/barang': 'Get list of barang',
-      '/barang/:id': 'Get barang by ID',
-      '/transaksi': 'Get list of transaksi',
-      '/transaksi/:id': 'Get transaksi by ID',
+    message: 'Selamat datang di API Gudang Pakaian, API ini digunakan untuk mengelola data barang, supplier, transaksi dan user. Dan di buat dengan Node.js dan Express.js. Berikut adalah daftar endpoint yang tersedia:',
+    "endpoints": {
+      "/users": "Mengambil daftar pengguna",
+      "/users/:id": "Mengambil data pengguna berdasarkan ID",
+      "/suppliers": "Mengambil daftar supplier",
+      "/suppliers/:id": "Mengambil data supplier berdasarkan ID",
+      "/barang": "Mengambil daftar barang",
+      "/barang/:id": "Mengambil data barang berdasarkan ID",
+      "/transaksi": "Mengambil daftar transaksi",
+      "/transaksi/:id": "Mengambil data transaksi berdasarkan ID"
     }
   });
 });
