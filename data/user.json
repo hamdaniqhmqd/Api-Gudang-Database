@@ -2,13 +2,6 @@
   "user": [
     {
       "id": 2,
-      "username": "jane_doe 123",
-      "password": "password456",
-      "adminName": "Jane Doe",
-      "profileImagePath": "https://i.pravatar.cc/150?img=2"
-    },
-    {
-      "id": 2,
       "username": "jane_doe",
       "password": "password456",
       "adminName": "Jane Doe",
@@ -31,44 +24,16 @@
     {
       "id": 5,
       "username": "peter_parker",
-      "password": "spiderman2024",
+      "password": "spiderman2023",
       "adminName": "Peter Parker",
       "profileImagePath": "https://i.pravatar.cc/150?img=5"
     },
     {
       "id": 6,
-      "username": "mary_jane",
-      "password": "marylove456",
-      "adminName": "Mary Jane",
-      "profileImagePath": "https://i.pravatar.cc/150?img=6"
-    },
-    {
-      "id": 7,
       "username": "tony_stark",
-      "password": "ironman3000",
+      "password": "ironman2023",
       "adminName": "Tony Stark",
-      "profileImagePath": "https://i.pravatar.cc/150?img=7"
-    },
-    {
-      "id": 8,
-      "username": "bruce_wayne",
-      "password": "batman2024",
-      "adminName": "Bruce Wayne",
-      "profileImagePath": "https://i.pravatar.cc/150?img=8"
-    },
-    {
-      "id": 9,
-      "username": "natasha_romanoff",
-      "password": "blackwidow789",
-      "adminName": "Natasha Romanoff",
-      "profileImagePath": "https://i.pravatar.cc/150?img=9"
-    },
-    {
-      "id": 10,
-      "username": "steve_rogers",
-      "password": "captain2024",
-      "adminName": "Steve Rogers",
-      "profileImagePath": "https://i.pravatar.cc/150?img=10"
+      "profileImagePath": "https://i.pravatar.cc/150?img=6"
     }
   ]
 }

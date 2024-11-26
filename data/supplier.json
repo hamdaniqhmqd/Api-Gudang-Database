@@ -29,36 +29,6 @@
       "nama_supplier": "PT Tekstil Utama",
       "nik_supplier": "7890123456789012",
       "no_hp_supplier": "085678901234"
-    },
-    {
-      "id_supplier": 6,
-      "nama_supplier": "CV Sentra Mode",
-      "nik_supplier": "2345678901234567",
-      "no_hp_supplier": "086789012345"
-    },
-    {
-      "id_supplier": 7,
-      "nama_supplier": "UD Pakaian Modern",
-      "nik_supplier": "8901234567890123",
-      "no_hp_supplier": "087890123456"
-    },
-    {
-      "id_supplier": 8,
-      "nama_supplier": "PT Sandang Berkarya",
-      "nik_supplier": "1234509876543210",
-      "no_hp_supplier": "088901234567"
-    },
-    {
-      "id_supplier": 9,
-      "nama_supplier": "CV Kain Berkualitas",
-      "nik_supplier": "4567890123456789",
-      "no_hp_supplier": "089012345678"
-    },
-    {
-      "id_supplier": 10,
-      "nama_supplier": "UD Tekstil Mandiri",
-      "nik_supplier": "9012345678901234",
-      "no_hp_supplier": "081345678901"
     }
   ]
 }
